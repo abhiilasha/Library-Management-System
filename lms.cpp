@@ -890,8 +890,8 @@ void start()
    cout<< "*****************************";
    gotoxy(35,11);
    cout<< "LIBRARY MANAGEMENT SYSTEM";
-   gotoxy(33,15);
-   cout<< "(By:Abhilasha,Amrit and Arshit)";
+   gotoxy(40,13);
+   cout<< "(By:Abhilasha)";
    gotoxy(33,16);
    cout<< "*****************************"<<endl;
 
